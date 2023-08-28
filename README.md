@@ -1,6 +1,8 @@
 <h1 align="center">Hola, Soy Jose Santiago Benavides</h1>
 <h3 align="center">Un entusiasta de la Ciberseguridad</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elecsyc" alt="elecsyc" /></a> </p>
+
 - 🔭 Ahora mismo estoy trabajando en **Sistemas y Computadores Inc.**
 
 - 🌱 Ahora mismo estoy aprendiendo **Electron**
@@ -15,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elecsyc&show_icons=true&locale=en&layout=compact" alt="elecsyc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elecsyc&show_icons=true&locale=en" alt="elecsyc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elecsyc&" alt="elecsyc" /></p>
+
