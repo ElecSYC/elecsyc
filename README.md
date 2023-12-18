@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Soy un entusiasta en ciberseguridad<br><br>- 🔭 Me encuentro trabajando en Sistemas y computadores<br>- 📚 Estoy aprendiendo sobre auditoria de ciberseguridad<br>- ⚡ Puedes mirar mis proyectos en : https://elecsyc.github.io.</p>
+<p align="left">Soy un entusiasta en ciberseguridad<br><br>- 🔭 Me encuentro trabajando en Indra<br>- 📚 Estoy aprendiendo sobre auditoria de ciberseguridad<br>- ⚡ Puedes mirar mis proyectos en : https://elecsyc.github.io.</p>
 
 ###
 
