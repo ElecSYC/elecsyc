@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Soy Analista en ciberseguridad<br><br>- 🔭 Me encuentro trabajando en Indra - Minsait<br>- 📚 SOC|Cybersecurity|Purple Team|TI/TO|<br>- ⚡ Puedes mirar mis proyectos en : https://elecsyc.github.io.</p>
+<p align="left">Soy Analista en ciberseguridad<br><br>- 🔭 Me encuentro trabajando en Universidad Pontificia Bolivariana<br>- 📚 Analista de Ciberseguridad | SOC | Cybersecurity | Blue Team | IT/OT<br>- ⚡ Puedes mirar mis proyectos en : https://elecsyc.github.io.</p>
 
 ###
 
