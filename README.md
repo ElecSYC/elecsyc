@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/electron/electron-original-wordmark.svg"  />
+  <img height="150" width="150" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/electron/electron-original-wordmark.svg"  />
 </div>
 
 ###
